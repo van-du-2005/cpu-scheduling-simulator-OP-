@@ -1,0 +1,40 @@
+# Build output
+bin/
+obj/
+
+# User-specific
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+.vs/
+
+# Logs and temp
+*.log
+*.tmp
+*.cache
+*.pdb
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/
+!**/packages/build/
+
+# Azure publish
+*.publishproj
+*.pubxml
+*.azurePubxml
+PublishScripts/
+
+# node_modules (nếu có dùng Node trong tool phụ trợ)
+node_modules/
+
+# Others
+*.bak
+*.ldf
+*.mdf
+*.sdf
+*.db
+*.scc
