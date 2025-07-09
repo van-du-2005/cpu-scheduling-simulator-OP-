@@ -1,0 +1,36 @@
+C:\Users\ADMIN\Desktop\operator\OS\OS\bin\Debug\net8.0-windows\OS.exe
+C:\Users\ADMIN\Desktop\operator\OS\OS\bin\Debug\net8.0-windows\OS.deps.json
+C:\Users\ADMIN\Desktop\operator\OS\OS\bin\Debug\net8.0-windows\OS.runtimeconfig.json
+C:\Users\ADMIN\Desktop\operator\OS\OS\bin\Debug\net8.0-windows\OS.dll
+C:\Users\ADMIN\Desktop\operator\OS\OS\bin\Debug\net8.0-windows\OS.pdb
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.Form1.resources
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.IntroInterface.resources
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.dll
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\refint\OS.dll
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.pdb
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\OS.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\operator\OS\OS\obj\Debug\net8.0-windows\ref\OS.dll
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\bin\Debug\net8.0-windows\OS.exe
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\bin\Debug\net8.0-windows\OS.deps.json
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\bin\Debug\net8.0-windows\OS.runtimeconfig.json
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\bin\Debug\net8.0-windows\OS.dll
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\bin\Debug\net8.0-windows\OS.pdb
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.Form1.resources
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.IntroInterface.resources
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.dll
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\refint\OS.dll
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.pdb
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\OS.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\he dieu hanh\OS\OS\obj\Debug\net8.0-windows\ref\OS.dll

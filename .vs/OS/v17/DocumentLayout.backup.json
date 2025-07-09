@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\os\\introinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\introinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\introinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\introinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\introinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\introinterface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\executionsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\executionsegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\processinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\processinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|c:\\users\\admin\\desktop\\he dieu hanh\\os\\os\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FAD862-6024-4689-BC03-12736AB46331}|OS\\OS.csproj|solutionrelative:os\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.Designer.cs",
+              "RelativeToolTip": "OS\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:05:56.756Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Program.cs",
+              "RelativeDocumentMoniker": "OS\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Program.cs",
+              "RelativeToolTip": "OS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:24:46.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\ProcessInfo.cs",
+              "RelativeDocumentMoniker": "OS\\ProcessInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\ProcessInfo.cs",
+              "RelativeToolTip": "OS\\ProcessInfo.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:54:41.094Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExecutionSegment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\ExecutionSegment.cs",
+              "RelativeDocumentMoniker": "OS\\ExecutionSegment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\ExecutionSegment.cs",
+              "RelativeToolTip": "OS\\ExecutionSegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:28:10.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntroInterface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\IntroInterface.cs",
+              "RelativeDocumentMoniker": "OS\\IntroInterface.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\operator\\OS\\OS\\IntroInterface.cs [Design]",
+              "RelativeToolTip": "..\\..\\operator\\OS\\OS\\IntroInterface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:13:45.187Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.cs",
+              "RelativeDocumentMoniker": "OS\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.cs [Design]",
+              "RelativeToolTip": "OS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:14:11.777Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.cs",
+              "RelativeDocumentMoniker": "OS\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\Form1.cs",
+              "RelativeToolTip": "OS\\Form1.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAgwBgCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:05:03.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroInterface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\IntroInterface.Designer.cs",
+              "RelativeDocumentMoniker": "OS\\IntroInterface.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\IntroInterface.Designer.cs",
+              "RelativeToolTip": "OS\\IntroInterface.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:28:43.103Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroInterface.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\IntroInterface.cs",
+              "RelativeDocumentMoniker": "OS\\IntroInterface.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\he dieu hanh\\OS\\OS\\IntroInterface.cs",
+              "RelativeToolTip": "OS\\IntroInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:28:36.46Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
